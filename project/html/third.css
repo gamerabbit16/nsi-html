@@ -1,0 +1,73 @@
+/* Style pour l'élément body */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.4;
+    color: #333;
+    background-color: #000;
+    text-align: center;
+    background-image: url("images/Aimage.png");
+    background-attachment: fixed;
+    background-position: left;
+    background-repeat: no-repeat;
+}
+
+/* Style pour les éléments h1 */
+h1 {
+    color: white;
+    margin: 50px;
+    background-color: rgb(27, 27, 27);
+    text-align: center;
+    font-family: Arial;
+}
+
+#part1 {
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    margin: 5px 0;
+    background-color: rgb(27, 27, 27);
+    font-family: Arial;
+}
+
+nav {
+    margin: 10px 0;
+    text-align: center;
+    font-size: 18px;
+    background-color: rgb(27, 27, 27);
+}
+
+nav a {
+    margin: 0 10px;
+    color: #ffffff;
+    text-decoration: none;
+    padding: 5px 10px;
+    border: 1px solid #4a4a4a;
+    border-radius: 5px;
+    transition: background 0.3s, color 0.3s;
+}
+
+nav a:hover {
+    background: #2f2f2f;
+    color: #fff;
+}
+
+img {
+    font-family: Arial, sans-serif;
+    margin: 10px 20px;
+}
+
+p {
+    color: #ffffff;
+    font-family: Arial;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h3 {
+    color: white;
+    text-align: center;
+    font-family: Arial;
+    margin: 50px;
+}
