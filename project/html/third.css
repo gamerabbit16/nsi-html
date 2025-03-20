@@ -1,4 +1,4 @@
-/* Style pour l'élément body */
+
 body {
     font-family: Arial, sans-serif;
     font-size: 14px;
@@ -12,7 +12,7 @@ body {
     background-repeat: no-repeat;
 }
 
-/* Style pour les éléments h1 */
+
 h1 {
     color: white;
     margin: 50px;
